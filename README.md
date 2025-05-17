@@ -1,1 +1,2 @@
-# TV_Tracker
+# object-tracking
+Object tracker based on computer vision algorithms
